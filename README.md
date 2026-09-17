@@ -1,8 +1,6 @@
-# BMI-Physical-Activity-Analysis
+# BMI-Physical-Activity-Statistical-Analysis
 Statistical analysis investigating inverse correlation between physical activity and BMI using linear regression and hypothesis testing. 900 subjects, R/RStudio
 
-# BMI and Physical Activity Statistical Analysis
-   
 Cross-sectional study investigating the correlation between physical activity and BMI among 900 working subjects in late adulthood.
    
 ## Analysis
